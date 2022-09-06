@@ -1,0 +1,1 @@
+This project folder contains a portfolio webpage introducing Jalon Lewis who is a budding Software Developer living in Chicago, Illinois.

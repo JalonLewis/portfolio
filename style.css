@@ -1,0 +1,77 @@
+header {
+background-color: #293241;
+margin: 0;
+padding: 0px 0;
+height: 60px;
+}
+
+footer {
+background-color: #293241;
+margin: 0;
+padding: 0px 0;
+height: 40px;
+}
+
+main {
+background-color: #DCC9B6;
+padding: 0 0px 20px 0px;
+}
+
+/* round image edges */
+img {
+border-radius: 5px;
+padding: 50px 0 20px;
+}
+
+h1,h2,h3 {
+font-family: Arial, sans-serif;
+text-align: center;
+margin: 0;
+}
+
+h1 {
+font-size: 32px;
+padding: 0 0 10px 0;
+color: #DCC9B6;
+}
+
+h2 {
+font-size: 10px;
+color: #DCC9B6;
+}
+
+footer h2 {
+  padding: 15px 0 0px 0;
+}
+
+h3 {
+font-size: 24px;
+}
+
+p, li {
+font-family: georgia;
+font-size: 12px;
+color: #293241;
+}
+
+ul {
+margin: 0;
+}
+
+ol {
+margin: 0;
+}
+/* create space above and below page dividers */
+hr {
+margin: 20px 0 20px 0;
+}
+/* class to center content */
+.wrapper {
+width: 300px;
+margin: auto;
+}
+/* sets color for link behaviors */
+a:link    { color: #0A3E4D;  }
+a:visited { color: #0A3E4D   }
+a:hover   { color: #000000; }
+a:active  { color: #293241;  }
